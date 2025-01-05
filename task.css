@@ -1,0 +1,31 @@
+.container>.box>p{
+ padding: 20px;   
+}
+.section>.content>p{
+    margin: 15px;
+}
+.card>.card-body>p{
+    border: 2px solid red;
+
+}
+.navbar li{
+    background-color: lightblue;
+}
+.header>h1{
+    margin: 20px;
+}
+.footer>span{
+    padding: 10px;
+}
+.main-content>.content>p{
+    border: 1px solid black;
+}
+.nav>ul>li{
+    margin-top: 15px;
+}
+.gallery>.photo{
+    background-color: lightgray;
+}
+.footer>span{
+    border-radius: 5px; border: solid yellowgreen;
+}
