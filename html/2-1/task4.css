@@ -1,0 +1,26 @@
+.one{
+    width: 800px;
+    height: 550px;
+    position: relative;
+    border: 5px solid black;
+    
+    
+
+}
+
+.badge{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    border: 5px solid red;
+    top:50px;
+    right:150px;
+    text-align: center;
+}
+img{
+    width: 550px;
+    height: 400px;
+    padding: 60px;
+    padding-left: 100px;
+}
+
