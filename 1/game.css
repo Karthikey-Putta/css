@@ -1,0 +1,39 @@
+.container{
+    background-color: gainsboro;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    border: 2px;
+}
+.container2{
+    width: 550px;
+    height: 400px;
+    background-color: burlywood;
+    position: absolute;
+    border: 2px;
+   left: 30%;
+   bottom: 31%;
+   text-align: center;
+   border: solid black;
+   border-radius: 5px;
+}
+.item{
+    background-color: lightsalmon;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    border: 2px;
+}
+.item1{
+    width: 550px;
+    height: 400px;
+    background-color: lightgoldenrodyellow;
+    position: absolute;
+    border: 2px;
+   left: 30%;
+   bottom: 31%;
+   text-align: center;
+   border: solid black;
+   border-radius: 5px;
+
+}
